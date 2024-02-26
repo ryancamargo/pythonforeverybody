@@ -1,0 +1,11 @@
+Exercise 5: What is wrong with the following code:
+
+>>> primt 'Hello world!'
+File "<stdin>", line 1
+primt 'Hello world!'
+ˆ
+SyntaxError: invalid syntax
+>>>
+
+
+answer - its a syntax error, and it is pointing to `primt` which is incorrectly typed, it should be `print`.

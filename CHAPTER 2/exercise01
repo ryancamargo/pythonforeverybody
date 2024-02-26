@@ -1,0 +1,8 @@
+Exercise 1: Type the following statements in the Python interpreter to see what
+they do:
+5
+x = 5
+x + 1
+
+
+answer - it will output the value `6`.
